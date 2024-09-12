@@ -25,12 +25,12 @@ Utilities submodule contains functions that help the user to process and summari
 The utilities submodule also contains functions for calculating the log posterior probability of the model, finding the chain with the best log posterior probability, cosine similarity between matrices utilizing scipy library, and plotting the signature. I also included a function that allows the user to create a list of loglikelihoods of the model across different numbers of clusters to be used in the elbow method.
 
 # libraries used
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-scikit learn
-pymc
-pytensor
+pandas,
+numpy,
+scipy,
+matplotlib,
+seaborn,
+scikit learn,
+pymc,
+pytensor,
 arviz
